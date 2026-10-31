@@ -39,7 +39,3 @@ Single `localStorage` key: `reframe.data.v1`
 ```json
 { "privacy": false, "records": [ { "id": "...", "date": "YYYY-MM-DD", "draft": false, ... } ] }
 ```
-
-## Sources
-
-Built from the Psyvel *thought record* schema and *critical questions* (English) forms.
